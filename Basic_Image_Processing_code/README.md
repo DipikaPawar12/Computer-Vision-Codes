@@ -1,7 +1,7 @@
 # BasicImage Processing Code 
 ---
 
-- Here main python file contains code of certain process on Images.
+- Here main python file contains code of certain processes on Images.
 - Like Image resize
 - Image Blur
 - Image Sharpen
